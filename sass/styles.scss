@@ -1,3 +1,13 @@
 @import "var";
 @import "layout/custom";
 @import "module/custom";
+
+#cv{
+    background-color: aliceblue;
+    border-style: groove;
+    width:500px;
+    height:700px;
+}
+.input-number{
+    width:5rem !important;
+}
