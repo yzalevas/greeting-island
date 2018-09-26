@@ -3,9 +3,7 @@
 /* custom module: */
 #cv {
   background-color: aliceblue;
-  border-style: groove;
-  width: 500px;
-  height: 700px; }
+  border-style: groove; }
 
 .input-number {
   width: 5rem !important; }
