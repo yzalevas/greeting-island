@@ -63,6 +63,8 @@ $(document).ready(function(){
         // Set font and size
         ct.font = `${size}px ${font}`;
         ct.fillStyle = color;
+        ct.textBaseline = "top";
+
         // write the text
         ct.fillText(text,x,y);
         ct.fill();
